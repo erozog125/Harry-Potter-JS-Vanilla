@@ -1,4 +1,4 @@
-const URL = "https://hp-api.herokuapp.com/api/characters/";
+const URL = "://hp-api.herokuapp.com/api/characters/";
 const main = document.querySelector("main");
 const btnGenerate = document.getElementById("btn-generate");
 const txtFind = document.getElementById("txt-find");
